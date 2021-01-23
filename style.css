@@ -1,0 +1,24 @@
+body{
+   background-color: red;
+}
+
+.container
+{
+    height: 550px;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+    color:darkblue;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 50px 30px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255, 0.8);
+
+
+
+
+}
+
+
+
+
